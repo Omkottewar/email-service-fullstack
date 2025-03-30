@@ -1,0 +1,20 @@
+{
+
+  "engines":{
+    "node":"20.12.2",
+    "npm":"10.9.0"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "name": "fullstack-emailservice",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start":"node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
